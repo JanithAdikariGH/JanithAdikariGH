@@ -20,6 +20,6 @@ The foundational tech stack and operational web architecture for an emerging sof
 ## ⚡ Technical Arsenal
 * **Frontend & Mobile:** Next.js, Flutter, React, Tailwind CSS, Framer Motion
 * **Backend & Database:** Supabase, Firebase (NoSQL), REST APIs
-* **AI & Visual Architecture:** Prompt-Driven Development, Gemini, Claude, Premiere Pro, Capcut, Photshop, Nano Banana
+* **AI & Visual Architecture:** Prompt-Driven Development, Gemini, Claude, Premiere Pro, Capcut, Photoshop, Nano Banana, Antigravity
 
 📫 **Reach me at:** janithadikari.official@gmail.com
