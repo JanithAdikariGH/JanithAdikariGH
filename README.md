@@ -17,9 +17,14 @@ The foundational tech stack and operational web architecture for an emerging sof
 * **Tech Stack:** Next.js, Tailwind CSS, AI-Generated UI/UX assets.
 * 🔗 **Live Platform:** [arclixlabs.netlify.app](https://arclixlabs.netlify.app/)
 
+### 3. SportZilla | Custom CMS Publishing Theme
+A fully functional, ad-optimized Blogger template engineered from scratch. Demonstrates advanced frontend structuring and content monetization tailored for digital publishing.
+* **Tech Stack:** HTML, CSS, JavaScript, Blogger XML.
+* 🔗 **Live Platform:** [sportzillahq.blogspot.com](https://sportzillahq.blogspot.com/)
+
 ## ⚡ Technical Arsenal
 * **Frontend & Mobile:** Next.js, Flutter, React, Tailwind CSS, Framer Motion
 * **Backend & Database:** Supabase, Firebase (NoSQL), REST APIs
-* **AI & Visual Architecture:** Prompt-Driven Development, Gemini, Claude, Premiere Pro, Capcut, Photoshop, Nano Banana, Antigravity
+* **AI & Visual Architecture:** Prompt-Driven Development, Gemini 3, Claude, Nano Banana Pro (Gemini 3 Pro Image), Google Antigravity, Luma, Midjourney, Premiere Pro, CapCut, Photoshop
 
 📫 **Reach me at:** janithadikari.official@gmail.com
